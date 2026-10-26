@@ -11,6 +11,6 @@ namespace ConsoleApp7
         private Student[] students;
         private static int id;
         private double sumHebrew;
-        private double sumCalc;
+        private double sumC;
     }
 }
